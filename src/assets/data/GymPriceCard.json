@@ -1,0 +1,96 @@
+{
+  "PriceCard": [
+    {
+      "id": 1,
+      "header": "Pass 'Trial’",
+      "price": "$ 0",
+      "despA": "Access the Gym from 8:00 to 14:00",
+      "despB": "The trainer on duty will introduce you the gym"
+    },
+    {
+      "id": 2,
+      "header": "Pass ‘Easy Start’",
+      "price": "$ 119",
+      "despA": "Visit without restrictions 24/7",
+      "despB": "Individual training program",
+      "despC": "Access to the VTRAINER application",
+      "despD": "Trainer support"
+    },
+    {
+      "id": 3,
+      "header": "Pass 'Free Time’",
+      "price": "$ 49",
+      "despA": "The entrance time to the gym is from 14:00 to 16:00",
+      "despB": "Without suspension of gym membership",
+      "despC": "The trainer on duty will introduce you to the gym"
+    },
+    {
+      "id": 4,
+      "header": "Pass ‘1 Month 24/7’",
+      "price": "$ 85",
+      "despA": "Visit without restrictions 24/7",
+      "despB": "The trainer on duty will introduce you to the gym"
+    },
+    {
+      "id": 5,
+      "header": "Pass ‘In Shape (AM)’",
+      "price": "$ 165",
+      "despA": "Training in mini-groups until 14:00",
+      "despB": "Without suspension of gym membership",
+      "despC": "Classes with a trainer in a mini-group 3 times a week",
+      "despD": "Trainer support"
+    },
+    {
+      "id": 6,
+      "header": "Pass ‘In Shape (PM)’",
+      "price": "$ 195",
+      "despA": "Training in mini-groups until 14:00",
+      "despB": "Without suspension of gym membership",
+      "despC": "Classes with a trainer in a mini-group 3 times a week",
+      "despD": "Trainer support"
+    }
+  ],
+  "Staffs": [
+    {
+      "id": 1,
+      "StaffName": "Victoria Shurpik",
+      "pix": "../images/staff1.png"
+
+    },
+    {
+      "id": 2,
+      "StaffName": "Elizabeth Lavrinenko",
+      "pix": "../images/staff2.png"
+    },
+    {
+      "id": 3,
+      "StaffName": "Ivan Gladkikh",
+      "pix": "../images/staff3.png"
+    },
+    {
+      "id": 4,
+      "StaffName": "Lyudmila Sabilo",
+      "pix": "../images/staff4.png"
+    },
+    {
+      "id": 5,
+      "StaffName": "Evgeny Gurkov",
+      "pix": "../images/staff5.png"
+    },
+    {
+      "id": 6,
+      "StaffName": "Maria Masyak",
+      "pix": "../images/staff6png"
+    },
+    {
+      "id": 7,
+      "StaffName": "Victor Ludkovich",
+      "pix": "../images/staff7.png"
+    },
+    {
+      "id": 8,
+      "StaffName":"Anthony Prytysky",
+      "pix": "../images/staff8.png"
+    }
+  ]
+}
